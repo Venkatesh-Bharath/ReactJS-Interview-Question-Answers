@@ -286,7 +286,7 @@ Hide/Show table of contents
 | 267 | [How does context works using useContext hook?](#how-does-context-works-using-use-context-hook)                                                                                                                                  |
 | 268 | [What are the use cases of useContext hook?](#what-are-the-use-cases-of-use-context-hook)                                                                                                                                        |
 | 269 | [When to use client and server components?](#when-to-use-client-and-server-components)                                                                                                                                        |
-</details>
+</details>f
 
 ### Table of Contents
 
@@ -566,7 +566,7 @@ Hide/Show table of contents
     - If you need to manage state or use lifecycle methods.
     - In scenarios where backward compatibility or integration with older code is necessary.
 
-    **Note:** You can also use reusable [react error boundary](https://github.com/bvaughn/react-error-boundary) third-party component without writing any class. i.e, No need to use class components for Error boundaries.
+    **Note:** You can also use reusable [react error boundary](https://github.com/Venkatesh-Bharath/ReactJS-Interview-Question-Answers/blob/main/react-error-boundary.md) third-party component without writing any class. i.e, No need to use class components for Error boundaries.
 
     The usage of Error boundaries from the above library is quite straight forward.
 
